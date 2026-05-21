@@ -101,7 +101,7 @@ p{
 }
 
 .button-2:active{
-    opacity: .8
+    opacity: .10
 }
 
 @media screen and (max-width:900px){
